@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": "df46",
+      "name": "Mujahid Ali",
+      "age": "40",
+      "details": "I am interior designer"
+    },
+    {
+      "id": "cbe2",
+      "name": "Farah Shaikh",
+      "age": "21",
+      "details": "I am an Accountant"
+    },
+    {
+      "id": "92a1",
+      "name": "Sugra Begum",
+      "age": "80",
+      "details": "I am a mother of Shane Ali and Abdul ALi"
+    },
+    {
+      "id": "76cc",
+      "name": "Haaris",
+      "age": "31",
+      "details": "I am a Doctor"
+    },
+    {
+      "id": "e1ce",
+      "name": "Nilesh K",
+      "age": "30",
+      "details": "I am Testing developer"
+    },
+    {
+      "id": "40c3",
+      "name": "Bablu",
+      "age": "39",
+      "details": "I am a Unknown"
+    }
+  ]
+}
